@@ -86,7 +86,7 @@ author:
   location         : "Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=LXbhSZEAAAAJ&view_op=list_works&gmla=AJsN-F75ErswlaIl3vbAxYNuubVIFXGN1R99tJvtVsP2xyrpn5q58j7kwHOoCITTTLnaRU-wEFYP4qZXdiM8L00PKKGY2OtpSL267J4c0PF5981KrUb3BdQ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
