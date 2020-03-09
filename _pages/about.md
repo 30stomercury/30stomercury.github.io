@@ -11,6 +11,8 @@ redirect_from:
 # About me
 Hi! I'm Brian S. Yeh, 
 currently a M.S. student in the Department of Electrical Engineering at National Tsing Hua University.
-My current research is in the field of speech processing and machine learning, especially I'm concentrated in Automatic Speech Recognition and 
-Speech Emotion Recognition with my advisor Prof. [Chi-Chun Lee](https://biic.ee.nthu.edu.tw/cclee.php). <br/>
+My current research is in the field of speech processing and machine learning with my advisor 
+Prof. [Chi-Chun Lee](https://biic.ee.nthu.edu.tw/cclee.php). <br/>
+Especially, I'm currently concentrated in Automatice Speech Recognition and Affective Computing. 
+Moreover, I'm also interested in NLP with research experiences in text generation.
 
