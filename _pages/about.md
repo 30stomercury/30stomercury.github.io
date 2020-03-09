@@ -13,6 +13,6 @@ Hi! I'm Brian S. Yeh,
 currently a M.S. student in EE at National Tsing Hua University.
 My current research is in the field of speech processing and machine learning with my advisor 
 Prof. [Chi-Chun Lee](https://biic.ee.nthu.edu.tw/cclee.php). <br/>
-Especially, I'm currently focus on developing end-to-end model combines speech recognition and emotion recognition. 
+Especially, I'm currently focus on the topic of end-to-end speech recognition and emotion recognition. 
 Moreover, I'm also interested in NLP with research experiences in [text generation](https://arxiv.org/abs/2002.02095).
 
