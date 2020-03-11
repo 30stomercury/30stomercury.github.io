@@ -22,5 +22,5 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
    <a href="https://github.com/30stomercury/Interaction-aware_Attention_Network" rel="permalink">
-     <i class="fa fa-github-square" aria-hidden="true"></i>
+     <i class="fab fa-fw fa-github" aria-hidden="true"></i>
    </a>
