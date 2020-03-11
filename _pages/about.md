@@ -24,7 +24,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Interaction-aware_Attention_Network">
      <i class="fab fa-fw fa-github" aria-hidden="true"></i> Github
    </a>
-   |<a style="text-decoration:none" href="https://github.com/30stomercury/30stomercury.github.io/files/AN_INTERACTIO-AWARE_ATTENTION_NETWORK_FOR_SPEECH_EMOTION_RECOGNITION_IN_SPOKEN_DIALOGS.pdf">
-     <i class="fa-var-file-pdf" aria-hidden="true"></i> Pdf
+   |<a style="text-decoration:none" href="https://30stomercury.github.io/files/AN_INTERACTIO-AWARE_ATTENTION_NETWORK_FOR_SPEECH_EMOTION_RECOGNITION_IN_SPOKEN_DIALOGS.pdf">
+     <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>
    ]
