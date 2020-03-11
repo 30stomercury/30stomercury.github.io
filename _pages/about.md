@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!--add icon-->
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
 
 # About me
 Hi! I'm Brian S. Yeh, 
@@ -23,9 +27,9 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Interaction-aware_Attention_Network">
      <!--<i class="fab fa-fw fa-github" aria-hidden="true"></i> Github-->
-     <i class="fab fa-fw fa-github" aria-hidden="true"></i> Github
+     <i class="fa fa-github" aria-hidden="true"></i> Github
    </a>
    |<a style="text-decoration:none" href="https://30stomercury.github.io/files/AN_INTERACTIO-AWARE_ATTENTION_NETWORK_FOR_SPEECH_EMOTION_RECOGNITION_IN_SPOKEN_DIALOGS.pdf">
-     <i class="fab fa-file-pdf-o" aria-hidden="true"></i> Pdf
+     <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>
    ]
