@@ -18,8 +18,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 # Publication
 
--**An Interaction-Aware Attention Network for Speech Emotion Recognition in Dialogs", in Proceedings of International Conference on Acoustics**<br/>
+- **An Interaction-Aware Attention Network for Speech Emotion Recognition in Dialogs", in Proceedings of International Conference on Acoustics**<br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020*<br/>
-   githuburl: 'https://github.com/30stomercury/Interaction-aware_Attention_Network'
-   paperurl: ''
+   [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/30stomercury/Interaction-aware_Attention_Network)
