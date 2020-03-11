@@ -16,3 +16,10 @@ Prof. [Chi-Chun Lee](https://biic.ee.nthu.edu.tw/cclee.php). <br/>
 Especially, I'm currently focus on the topic of end-to-end speech recognition and emotion recognition. 
 Moreover, I'm also interested in NLP with research experiences in [text generation](https://arxiv.org/abs/2002.02095).
 
+# Publication
+
+-**An Interaction-Aware Attention Network for Speech Emotion Recognition in Dialogs", in Proceedings of International Conference on Acoustics**<br/>
+   <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
+   *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020*<br/>
+   githuburl: 'https://github.com/30stomercury/Interaction-aware_Attention_Network'
+   paperurl: ''
