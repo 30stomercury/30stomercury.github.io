@@ -23,6 +23,5 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
    <a href="https://github.com/30stomercury/Interaction-aware_Attention_Network" rel="permalink">
      <i class="fa fa-github fa-2x" aria-hidden="true">
-     ::before
      </i>
    </a>
