@@ -22,7 +22,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 # Publication
 
-**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <sub>oral</sub><br/>
+**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <sub>[oral]</sub><br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury">
@@ -31,7 +31,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/A_Dialogical_Emotion_Decoder_For_Speech_Emotion_Recognition_in_Spoken_Dialog.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
-**An Interaction-Aware Attention Network for Speech Emotion Recognition in Spoken Dialog** <sub>poster</sub><br/>
+**An Interaction-Aware Attention Network for Speech Emotion Recognition in Spoken Dialog** <sub>[poster]</sub><br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Interaction-aware_Attention_Network">
