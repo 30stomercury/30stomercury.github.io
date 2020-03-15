@@ -22,7 +22,7 @@
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
-  padding-right: 4em;
+  padding-right: 4em !important;
 
   .page__inner-wrap {
     @include full();
@@ -258,7 +258,7 @@
   }
 
   strong {
-    margin-right: 5px;
+    margin-right: 10px;
   }
 }
 
@@ -400,4 +400,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
