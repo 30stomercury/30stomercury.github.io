@@ -68,3 +68,9 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/IS18_Challenge.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
+
+
+# Teaching
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto">TA of Probability</a></span> <span style="flex:  0 0 auto"><i>NTHU EE, Spring 2020</i></span></p>
