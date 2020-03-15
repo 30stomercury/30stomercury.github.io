@@ -72,5 +72,4 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
-  <span style="flex: 0 0 auto">TA of Probability</span> <span style="flex:  0 0 auto"><i>NTHU EE, Spring 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Probability</span> <span style="flex:  0 0 auto"><i>NTHU EE, Spring 2020</i></span></p>
