@@ -34,7 +34,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 - **Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation** <sub>[poster]</sub><br/>
    Yun-Zhu Song, Hong-Han Shuai, <u>Sung-Lin Yeh</u>, Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng<br/>
-   *in the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*<br/>
+   *In the 34th AAAI Conference on Artificial Intelligence (AAAI) 2020*<br/>
    [<a style="text-decoration:none" href="https://arxiv.org/pdf/2002.02095.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
