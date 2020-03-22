@@ -22,9 +22,9 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 # Publication
 
-**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <sub>[oral]</sub><br/>
+**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** 
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
-   *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
+   *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury">
      <i class="fa fa-github" aria-hidden="true"></i> Github
    </a>|
@@ -32,16 +32,16 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
 
-**Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation** <sub>[poster]</sub><br/>
+**Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation** <br/>
    Yun-Zhu Song, Hong-Han Shuai, <u>Sung-Lin Yeh</u>, Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng<br/>
-   *In the 34th AAAI Conference on Artificial Intelligence (AAAI) 2020*<br/>
+   *In the 34th AAAI Conference on Artificial Intelligence (AAAI) 2020, [Poster]*<br/>
    [<a style="text-decoration:none" href="https://arxiv.org/pdf/2002.02095.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
 
-**Using Attention Networks and Adversarial Augmentation for Styrian Dialect Continuous Sleepiness and Baby Sound Recognition** <sub>[oral]</sub><br/>
+**Using Attention Networks and Adversarial Augmentation for Styrian Dialect Continuous Sleepiness and Baby Sound Recognition** <br/>
    <u>Sung-Lin Yeh</u> Gao-Yi Chao, Bo-Hao Su, Chi-Chun Lee and others<br/>
-   *In Proceedings of the International Speech Communication Association (Interspeech) 2019*<br/>
+   *In Proceedings of the International Speech Communication Association (Interspeech) 2019, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/IS19_ComParE_Sub-Challenge">
      <i class="fa fa-github" aria-hidden="true"></i> Github
    </a>|
@@ -49,9 +49,9 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
 
-**An Interaction-Aware Attention Network for Speech Emotion Recognition in Spoken Dialog** <sub>[poster]</sub><br/>
+**An Interaction-Aware Attention Network for Speech Emotion Recognition in Spoken Dialog** <br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
-   *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*<br/>
+   *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019, [Poster]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Interaction-aware_Attention_Network">
      <i class="fa fa-github" aria-hidden="true"></i> Github
    </a>|
@@ -59,9 +59,9 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
 
-**Self-Assessed Affect Recognition using Fusion of Attentional BLSTM and Static Acoustic Features** <sub>[oral]</sub><br/>
+**Self-Assessed Affect Recognition using Fusion of Attentional BLSTM and Static Acoustic Features** <br/>
    Bo-Hao Su, <u>Sung-Lin Yeh</u>, Ming-Ya Ko, Huan-Yu Chen, Shun-Chang Zhong, Jeng-Lin Li, Chi-Chun Lee<br/>
-   *In Proceedings of the International Speech Communication Association (Interspeech) 2018*<br/>
+   *In Proceedings of the International Speech Communication Association (Interspeech) 2018, Oral*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/IS18_ComParE_Sub-Challenge">
      <i class="fa fa-github" aria-hidden="true"></i> Github
    </a>|
