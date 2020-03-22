@@ -22,7 +22,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 # Publication
 
-**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** 
+**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury">
@@ -61,7 +61,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 **Self-Assessed Affect Recognition using Fusion of Attentional BLSTM and Static Acoustic Features** <br/>
    Bo-Hao Su, <u>Sung-Lin Yeh</u>, Ming-Ya Ko, Huan-Yu Chen, Shun-Chang Zhong, Jeng-Lin Li, Chi-Chun Lee<br/>
-   *In Proceedings of the International Speech Communication Association (Interspeech) 2018, Oral*<br/>
+   *In Proceedings of the International Speech Communication Association (Interspeech) 2018, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/IS18_ComParE_Sub-Challenge">
      <i class="fa fa-github" aria-hidden="true"></i> Github
    </a>|
