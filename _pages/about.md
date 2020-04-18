@@ -30,6 +30,9 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    </a>|
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/A_Dialogical_Emotion_Decoder_For_Speech_Emotion_Recognition_in_Spoken_Dialog.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
+   </a>|
+   <a style="text-decoration:none" href="https://www.youtube.com/watch?v=Ti4foNyrvzo&t=11s">
+     <i class="fa fa-youtube-play" aria-hidden="true"></i> Video
    </a>]<br/>
 
 **Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation** <br/>
