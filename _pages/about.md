@@ -27,10 +27,10 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Dialogical-Emotion-Decoding">
      <i class="fa fa-github" aria-hidden="true"></i> Github
-   </a>
+   </a>|
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/A_Dialogical_Emotion_Decoder_For_Speech_Emotion_Recognition_in_Spoken_Dialog.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
-   </a>
+   </a>|
    <a style="text-decoration:none" href="https://www.youtube.com/watch?v=Ti4foNyrvzo&t=11s">
      <i class="fa fa-youtube-play" aria-hidden="true"></i> Video
    </a>]<br/>
@@ -47,7 +47,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    *In Proceedings of the International Speech Communication Association (Interspeech) 2019, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/IS19_ComParE_Sub-Challenge">
      <i class="fa fa-github" aria-hidden="true"></i> Github
-   </a>
+   </a>|
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/IS19_Challenge.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
@@ -57,7 +57,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019, [Poster]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Interaction-aware_Attention_Network">
      <i class="fa fa-github" aria-hidden="true"></i> Github
-   </a>
+   </a>|
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/AN_INTERACTIO-AWARE_ATTENTION_NETWORK_FOR_SPEECH_EMOTION_RECOGNITION_IN_SPOKEN_DIALOGS.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
@@ -67,7 +67,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    *In Proceedings of the International Speech Communication Association (Interspeech) 2018, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/IS18_ComParE_Sub-Challenge">
      <i class="fa fa-github" aria-hidden="true"></i> Github
-   </a>
+   </a>|
    <a style="text-decoration:none" href="https://30stomercury.github.io/files/IS18_Challenge.pdf">
      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
    </a>]<br/>
