@@ -73,6 +73,18 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
    </a>]<br/>
 
 
+# Award
+
+<p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto">1st place of INTERSPEECH 2019 Computational Paralinguistics award (two sub-challenges)
+  </span> <span style="flex:  0 0 auto">
+  <i>Sep 2019</i></br>
+   <a style="text-decoration:none" href="http://www.compare.openaudio.eu/winners/">
+     Link
+   </a>
+  </span>
+</p>
+
 # Teaching
 
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
