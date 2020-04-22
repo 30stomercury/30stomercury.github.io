@@ -76,7 +76,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 # Award
 
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
-  <span style="flex: 0 0 auto">1st place of **INTERSPEECH 2019 Computational Paralinguistics award**.
+  <span style="flex: 0 0 auto">1st place of INTERSPEECH 2019 Computational Paralinguistics award.
    <a style="text-decoration:none" href="http://www.compare.openaudio.eu/winners/">
      [Link]
    </a>
@@ -91,7 +91,10 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
   </span>
 </p>
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
-  <span style="flex: 0 0 auto">1st place of Mandarin Speech Recognition Challenge in Speech Signal Processing course (EE664000).
+  <span style="flex: 0 0 auto">1st place of Mandarin Speech Recognition Challenge in Speech Signal Processing (EE664000).
+   <a style="text-decoration:none" href="http://isa.site.nthu.edu.tw/p/16-1182-149314.php?Lang=zh-tw">
+     [Link]
+   </a>
   </span> <span style="flex:  0 0 auto">
   <i>Jan 2019</i>
   </span>
@@ -99,9 +102,6 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto">3rd place in Civil IoT Taiwan Hackson (16000 USD).
   </span> <span style="flex:  0 0 auto">
-   <a style="text-decoration:none" href="http://isa.site.nthu.edu.tw/p/16-1182-149314.php?Lang=zh-tw">
-     [Link]
-   </a>
   <i>Oct 2018</i>
   </span>
 </p>
@@ -109,12 +109,6 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
   <span style="flex: 0 0 auto">NTHU EE Graduated Student Scholarship (2700 USD).
   </span> <span style="flex:  0 0 auto">
   <i>July 2018</i>
-  </span>
-</p>
-<p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
-  <span style="flex: 0 0 auto">NTHU EE Graduated Student Scholarship (2700 USD).
-  </span> <span style="flex:  0 0 auto">
-  <i>Jan 2019</i>
   </span>
 </p>
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
