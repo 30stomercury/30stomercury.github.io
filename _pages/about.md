@@ -92,15 +92,15 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 </p>
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto">1st place of Mandarin Speech Recognition Challenge in Speech Signal Processing (EE664000).
-   <a style="text-decoration:none" href="http://isa.site.nthu.edu.tw/p/16-1182-149314.php?Lang=zh-tw">
-     [Link]
-   </a>
   </span> <span style="flex:  0 0 auto">
   <i>Jan 2019</i>
   </span>
 </p>
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto">3rd place in Civil IoT Taiwan Hackson (16000 USD).
+   <a style="text-decoration:none" href="http://isa.site.nthu.edu.tw/p/16-1182-149314.php?Lang=zh-tw">
+     [Link]
+   </a>
   </span> <span style="flex:  0 0 auto">
   <i>Oct 2018</i>
   </span>
