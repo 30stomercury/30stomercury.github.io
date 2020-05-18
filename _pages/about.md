@@ -24,6 +24,10 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 **A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
+   *In Proceedings of the International Speech Communication Association (Interspeech) 2020, [Submitted]*<br/>
+
+**A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <br/>
+   <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020, [Oral]*<br/>
    [<a style="text-decoration:none" href="https://github.com/30stomercury/Dialogical-Emotion-Decoding">
      <i class="fa fa-github" aria-hidden="true"></i> Github
