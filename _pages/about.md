@@ -24,7 +24,13 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 
 **Speech Representation Learning for Speech Emotion Recognition Using End-to-End ASR with Factorized Adaptation** <br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
-   *In Proceedings of the International Speech Communication Association (Interspeech) 2020, [Submitted]*<br/>
+   *In Proceedings of the International Speech Communication Association (Interspeech) 2020, [Online Presentation]*<br/>
+   [<a style="text-decoration:none" href="https://github.com/30stomercury/Automatic-Speech-Recognition">
+     <i class="fa fa-github" aria-hidden="true"></i> Github
+   </a>|
+   <a style="text-decoration:none" href="https://30stomercury.github.io/files/is20_draft.pdf">
+     <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pdf
+   </a>]<br/>
 
 **A Dialogical Emotion Decoder For Speech Emotion Recognition in Spoken Dialog** <br/>
    <u>Sung-Lin Yeh</u>, Yun-Shao Lin, Chi-Chun Lee<br/>
