@@ -187,9 +187,7 @@ collections:
   talks:
     output: false #true
     permalink: /:collection/:path/
-  CV:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
