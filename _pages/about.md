@@ -89,9 +89,6 @@ working with [Dr. Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/
 
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto">INTERSPEECH 2020 Travel Grant.
-   <a style="text-decoration:none" href="http://www.compare.openaudio.eu/winners/">
-     [Link]
-   </a>
   </span> <span style="flex:  0 0 auto">
   <i>Aug 2020</i>
   </span>
