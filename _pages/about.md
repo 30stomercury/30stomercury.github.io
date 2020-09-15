@@ -14,11 +14,13 @@ redirect_from:
 
 # About me
 Hi! I'm Brian S. Yeh, 
-currently a M.S. student in EE at National Tsing Hua University.
+I recieved my M.S. degree from National Tsing Hua University in EE.
 My current research is in the field of speech processing and machine learning with my advisor 
 Prof. [Chi-Chun Lee](https://biic.ee.nthu.edu.tw/cclee.php). <br/>
 Especially, I'm currently focus on the topic of end-to-end speech recognition and emotion recognition. 
-Moreover, I'm also interested in NLP with research experiences in [text generation](https://arxiv.org/abs/2002.02095).
+I'm also interested in NLP with research experiences in [text generation](https://arxiv.org/abs/2002.02095). <br/>
+I currently joined the [SpeechBrain](https://speechbrain.github.io/index.html) project, 
+working with [Dr. Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Prof. Titouan Parcollet](http://darnault-parcollet.fr/Parcollet/index.html).
 
 # Publication
 
@@ -86,6 +88,15 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
 # Award
 
 <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto">INTERSPEECH 2020 Travel Grant.
+   <a style="text-decoration:none" href="http://www.compare.openaudio.eu/winners/">
+     [Link]
+   </a>
+  </span> <span style="flex:  0 0 auto">
+  <i>Aug 2020</i>
+  </span>
+</p>
+<p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto">1st place of INTERSPEECH 2019 Computational Paralinguistics award.
    <a style="text-decoration:none" href="http://www.compare.openaudio.eu/winners/">
      [Link]
@@ -135,3 +146,7 @@ Moreover, I'm also interested in NLP with research experiences in [text generati
   <i>NTHU EE, Spring 2020</i>  
   </span>
 </p>
+
+# Project
+
+SpeechBrain [link](https://speechbrain.github.io/index.html)
