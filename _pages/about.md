@@ -149,4 +149,12 @@ working with [Dr. Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/
 
 # Project
 
-SpeechBrain [link](https://speechbrain.github.io/index.html)
+<p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto">SpeechBrain
+   <a style="text-decoration:none" href="https://speechbrain.github.io/index.html">
+     [Link]
+   </a>
+  </span> <span style="flex:  0 0 auto">
+  <i></i>
+  </span>
+</p>
