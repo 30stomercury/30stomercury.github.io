@@ -258,7 +258,6 @@ nav {
 
 .post {
   backgroud-color: $white;
-  border-bottom: 1px solid #ddd;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -269,12 +268,13 @@ nav {
   }
 
   .comments {
-    margin-top: 10px;
+    margin-top: 8px;
   }
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 12px;
+    border-bottom: 1px solid #ddd;
   }
 }
 
