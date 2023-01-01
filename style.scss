@@ -67,6 +67,11 @@ h4 {
   color: $gray;
 }
 
+entry {
+  font-size: 10px;
+  color: $gray;
+}
+
 p {
   margin: 15px 0;
 }
@@ -220,7 +225,6 @@ nav {
   font-family: $helveticaNeue;
   font-size: 18px;
   //background-color: #ebedc9; 
-
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -257,10 +261,10 @@ nav {
 }
 
 .post {
-  margin-top: 5px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $white;
+  //margin-top: 5px;
+  //border-top: 1px solid #ddd;
+  //border-bottom: 1px solid #ddd;
+  //background-color: $white;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -271,7 +275,7 @@ nav {
   }
 
   .comments {
-    margin-top: 8px;
+    margin-top: 10px;
   }
 
   .read-more {
