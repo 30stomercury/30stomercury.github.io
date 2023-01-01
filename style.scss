@@ -268,7 +268,13 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-
+  .short {
+    display: block;
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   .comments {
     margin-top: 10px;
   }
