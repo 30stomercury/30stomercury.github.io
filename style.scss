@@ -155,7 +155,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background-color: #ebedc9;
+  //background-color: #ebedc9;
 }
 
 .masthead {
@@ -257,7 +257,10 @@ nav {
 }
 
 .post {
-  backgroud-color: $black;
+  margin-top: 5px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $white;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
