@@ -155,6 +155,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: #ebedc9;
 }
 
 .masthead {
@@ -218,7 +219,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  background-color: #ebedc9; 
+  //background-color: #ebedc9; 
 
   @include mobile {
     float: none;
