@@ -5,7 +5,7 @@ title: Hellow world
 
 # Goals for 2023 🌟
 
-<p class="block-color-blue_background">PhD Goals</p>
+<p class="block-color-teal">PhD Goals</p>
 
 - [ ]  Write a post about implementing hidden semi-Markov model
 - [ ]  Unsupervised ASR based on segmental models
@@ -14,7 +14,7 @@ title: Hellow world
 - [ ]  Spend more time coding in C++ and Cuda
 
 
-<p class="block-color-blue_background">Learning Goals</p>
+<p class="block-color-teal">Learning Goals</p>
 
 - [ ]  Learn Korean
 - [ ]  Learn better Cuda and C++
