@@ -1,0 +1,97 @@
+/* theme.css */
+
+:root {
+  --bg-color: #fefbea;         /* Traditional Tufte soft cream */
+  --text-color: #111111;       /* Deep near-black for readability */
+  --code-bg: #f5f4ee;          /* Soft, slightly darker cream/grey for code blocks */
+  --code-text: #bd1c1c;        /* Classic editorial crimson for inline code */
+  --code-block-text: #222222;  /* Neutrally dark for code snippets */
+  --border-color: #dddddd;     /* Subtle division lines */
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Inline code */
+code {
+  font-family: "Consolas", "Libre Franklin", Monospace;
+  font-size: 0.85rem;
+  background-color: var(--code-bg);
+  color: var(--code-text);
+  padding: 0.15rem 0.3rem;
+  border-radius: 3px;
+}
+
+/* Code blocks */
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid dashed var(--border-color);
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+pre code {
+  background-color: transparent;
+  color: var(--code-block-text);
+  padding: 0;
+  border-radius: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Adjust links to fit the classic look */
+a:link, a:visited {
+  color: #0066cc;
+}
+
+/* Header alignment */
+.blog-header {
+  display: flex;
+  align-items: center; /* Vertically centers the avatar with the text */
+  gap: 1.5rem;         /* Space between the avatar and the titles */
+  margin-top: 3rem;    /* Standard Tufte top spacing */
+  margin-bottom: 2rem;
+}
+
+/* Avatar styling */
+.avatar {
+  width: 130px;         /* Adjust size as needed */
+  height: 130px;
+  border-radius: 50%;  /* Makes the image perfectly circular */
+  object-fit: cover;   /* Prevents distortion if your image isn't perfectly square */
+  border: 1px solid var(--border-color); /* Optional subtle border */
+}
+
+/* Reset Tufte margins for the title inside the flex container */
+.header-titles h1 {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+
+.header-titles .subtitle {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+/* Horizontal social links with adjusted spacing and scale */
+.header-links {
+  display: flex;
+  gap: 1rem;
+  padding-top: 0.6rem;    /* Added top padding to breathe */
+  font-size: 1.4rem;      /* Increased font size for legibility */
+}
+
+/* Ensure the links use the clean style at the new size */
+.header-links a:link,
+.header-links a:visited {
+  color: #bd1c1c;
+  background: transparent;
+  text-shadow: none;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;     /* Slightly lowered offset for a larger font */
+}

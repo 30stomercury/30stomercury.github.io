@@ -1,18 +1,43 @@
----
-layout: default
----
-<meta http-equiv="Refresh" content="0; url=https://homepages.inf.ed.ac.uk/s2196654/index.html"/>  
-<div class="posts">
-  <h1 class="site-name"><a href="{{ site.baseurl }}/"><b>{{ site.name }}</b></a></h1>
-  <p class="site-description">{{ site.description }}</p>  <br><br>
-  
-  {% for post in site.posts %}
-    <article class="post">
-      <h2>{{ page.title }}</h2>
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <a class="short">
-        {{ post.excerpt }}
-      </a>
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Designing with Tufte.css</title>
+    <!-- Include the base Tufte framework -->
+    <link rel="stylesheet" href="tufte.css">
+    <!-- Layer your light theme choices over it -->
+    <link rel="stylesheet" href="theme.css">
+</head>
+<html lang="en">
+<article>
+<header class="blog-header">
+    <img src="avatar.png" alt="Sung-Lin Yeh" class="avatar">
+    <div class="header-titles">
+        <h1>Sung-Lin Yeh</h1>
+        <p class="subtitle">sunglin.yeh[at]ed.ac.uk</p>
+        <div class="header-links">
+            <a href="https://github.com/30stomercury">GitHub</a>
+            <a href="https://scholar.google.com/citations?user=LXbhSZEAAAAJ&hl=en">Google Scholar</a>
+            <a href="https://twitter.com/30SecToMercury">Twitter</a>
+        </div>
+    </div>
+</header>
+
+<body>
+    <article>
+        <h1>About</h1>
+        <section>
+            <p>
+                Hi! I’m a Research Scientist at Google DeepMind. I am part of the Winslow team within DeepMind’s Frontier AI organization, where I work with RJ Skerry-Ryan and other talented researchers. Before joining DeepMind, I completed my PhD at the Centre for Speech Technology Research (CSTR) at the University of Edinburgh, under the supervision of Prof. Hao Tang and Prof. Peter Bell.
+
+                <br></br>
+                I'm interested in speech and language processing and machine learning. In particular, my thesis focuses on speech representation learning and speech langauge modeling in the language of discrete latent variable models.
+                I'm interested in speech and language processing and machine learning. My areas of research focus on speech representation learning and speech langauge modeling in the language of discrete latent variable models.
+                I'm also broadly interested in dynamic programming, segmentation, sampling methods and variational learning.
+            </p>
+
+        </section>
     </article>
-  {% endfor %}
-</div>
+</body>
+</article>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Designing with Tufte.css</title>
+    <!-- Include the base Tufte framework -->
+    <link rel="stylesheet" href="tufte.css">
+    <!-- Layer your light theme choices over it -->
+    <link rel="stylesheet" href="theme.css">
+</head>
+<html lang="en">
+<article>
+<header class="blog-header">
+    <img src="avatar.png" alt="Sung-Lin Yeh" class="avatar">
+    <div class="header-titles">
+        <h1>Sung-Lin Yeh</h1>
+        <p class="subtitle">sunglin.yeh[at]ed.ac.uk</p>
+        <div class="header-links">
+            <a href="https://github.com/30stomercury">GitHub</a>
+            <a href="https://scholar.google.com/citations?user=LXbhSZEAAAAJ&hl=en">Google Scholar</a>
+            <a href="https://twitter.com/30SecToMercury">Twitter</a>
+        </div>
+    </div>
+</header>
+
+<body>
+    <article>
+        <h1>A Tufte-Style Blog Post</h1>
+        <p class="subtitle">Minimalist code blocks and elegant marginalia</p>
+
+        <section>
+            <p>
+                The primary goal of Tufte's design is visual clarity. Data and prose take center stage. 
+                When we integrate code snippets into this layout, we want to maintain that calm readability. 
+                Instead of intense dark-mode blocks that break the visual flow, a soft background 
+                helps technical writing seamlessly match the tone of the surrounding text.
+            </p>
+
+            <h2>Customizing the Syntax</h2>
+            <p>
+                You can write text inline like this: <code>const theme = 'light'</code> to quickly emphasize variables. 
+                For larger code chunks, standard <code>&lt;pre&gt;&lt;code&gt;</code> syntax will render beautifully across the page, staying fully contained in its light, low-contrast bounding container.
+                <label for="sn-demo" class="margin-toggle">&#8853;</label>
+                <input type="checkbox" id="sn-demo" class="margin-toggle"/>
+                <span class="sidenote">This is a traditional Tufte sidenote. It floats out to the right side of the screen on wide monitors, keeping annotations non-intrusive.</span>
+            </p>
+
+<pre><code>function greetUser(name) {
+    // Elegant, non-distracting code theme
+    const greeting = `Welcome back to the blog, ${name}!`;
+    console.log(greeting);
+    return true;
+}</code></pre>
+
+            <p>
+                By keeping the syntax background slightly deeper than the page cream color (`#f5f4ee` vs `#fffff8`), you still draw the reader's eye to structural examples without fatiguing them with extreme starkness.
+            </p>
+        </section>
+    </article>
+</body>
+</article>
+</html>
